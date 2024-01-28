@@ -1,0 +1,4 @@
+//in multiple inheritance the two base class are giving its functions to derived class 
+// this is not possible because 2 copies of bas class are in the derived class
+// tosolve this issue we have to make it virtual 
+#includ<>

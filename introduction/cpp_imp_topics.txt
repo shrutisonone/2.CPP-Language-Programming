@@ -1,0 +1,13 @@
+CPP imp points
+c and object orientd programming difference 
+structure in c and sstructure in c++
+structure in c v/sclass in c++
+static keyword in cpp
+friend function in cpp and their examples
+access modifiers in cpp'
+inheritance and their types and exmaples
+one line defination wiht e.g of basic concepts - classes objects data abstraction encapsulation inheritance polymorphism dynamic binding message passging 
+pure virtual function def with e.g.
+abstract class def with e.g.
+overloading definition wiht e.g of function and operator 
+overriding definition with e.g. 
