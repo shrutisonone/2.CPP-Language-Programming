@@ -1,0 +1,13 @@
+procedure oriented programming.
+emphasis is on doing things.
+large prgograms are divided into smaller programs known as functions. 
+most of functions share global data 
+data move openly around teh system from function to function
+function transform data from one form to another 
+employs top down approach in program design 
+
+OBJECT ORIENTED PROGRAM 
+Object oriented pressure as an approach that provides a way of modularising program 
+by creating partitioned memory area for both data and functions that can be used 
+as templates for creating copies of such module on demand.
+
